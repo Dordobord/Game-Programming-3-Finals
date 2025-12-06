@@ -151,5 +151,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edb9ca265d4b3ac4bbb1a0cf007c6745, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: Blu
-  itemPrice: 14
+  itemName: Monster
+  itemPrice: 100

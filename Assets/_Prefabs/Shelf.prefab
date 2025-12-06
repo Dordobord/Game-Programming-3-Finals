@@ -1702,6 +1702,10 @@ MonoBehaviour:
   - {fileID: 945412191579662542, guid: 61158aaeab3e0fd4c928fcad1d2911da, type: 3}
   - {fileID: 2270553558375698843, guid: 7de120fcc5c52e345a13be56c673e56b, type: 3}
   - {fileID: 4303119134753255243, guid: de3d6070a7444e24ca0b4ee84756606c, type: 3}
+  - {fileID: 6787443788136057219, guid: 9c3f964e4c3bc9241a9e013608941fdc, type: 3}
+  - {fileID: 5607422533856106204, guid: b02991e4d1578a24fb8d5f179b278311, type: 3}
+  - {fileID: 8416764077201223159, guid: cc7620f4e792eab4b9de83685824b38d, type: 3}
+  - {fileID: 2746824737721488167, guid: 0cbc9ecc6208cdb4ea060355d48fe68e, type: 3}
   minItems: 1
   maxItems: 3
   spawnPoints:

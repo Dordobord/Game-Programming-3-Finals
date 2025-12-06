@@ -152,4 +152,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemName: Beer
-  itemPrice: 5
+  itemPrice: 25
